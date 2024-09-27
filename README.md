@@ -7,7 +7,7 @@
 <div align="center">
 <a href="https://github.com/daviroc">
   <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirochw&layout=compact&lang_count=16&theme=vision-friendly-dark&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviroc&layout=compact&lang_count=16&theme=vision-friendly-dark&count_private=true"/>
   </div>
 
   <div style="display: inline_block"><br>

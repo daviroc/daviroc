@@ -5,12 +5,13 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/davirochw">
+<a href="https://github.com/daviroc">
   <div>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirochw&layout=compact&lang_count=16&theme=vision-friendly-dark&count_private=true"/>
   </div>
 
   <div style="display: inline_block"><br>
+    <img align="center" alt="C#" height="50" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>
     <img align="center" alt="JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
     <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
     <img align="center" alt="Pyhon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
